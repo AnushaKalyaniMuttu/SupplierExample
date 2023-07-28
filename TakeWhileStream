@@ -1,0 +1,1 @@
+Stream.of(1,3,2,4).takeWhile(i->i<4).forEach(System.out::println);
